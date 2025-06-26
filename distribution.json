@@ -12,7 +12,7 @@
       "name": "모겜동 서버",
       "description": "Mogam_Life (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/launimg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "175.205.80.233",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -540,6 +540,26 @@
             "size": 6638739,
             "url": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/servers/Mogam_Life-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "5da5c53008e52bfd83148beefec271ce"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5026,
+            "url": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/servers/Mogam_Life-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/servers/Mogam_Life-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
