@@ -12,7 +12,7 @@
       "name": "모겜동 서버",
       "description": "Mogam_Life (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/launimg.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "175.205.80.233",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -431,16 +431,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "eu.asangarin:arikeys:2.3@jar",
-          "name": "AriKeys",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 48450,
-            "url": "https://raw.githubusercontent.com/0-bird/Mogam_Life-distro/main/servers/Mogam_Life-1.20.1/forgemods/required/arikeys-forge-2.3-1.20.1.jar",
-            "MD5": "227a3a44b9a655e5016ee93ed30601f1"
-          }
         },
         {
           "id": "eu.asangarin:arikeys:2.3.1@jar",
